@@ -268,10 +268,11 @@ img {
     flex-direction: column;
     position: fixed;
     justify-content: start;
-    top: 75px;
-    background-color: #fff;
-    width: 100%;
-    height: calc(90vh - 40px);
+    top: 90px;
+    left:40px;
+    background-color: #fffdfd;
+    width: 80%;
+    height: calc(90vh - 30px);
     transform: translate(-101%);
     text-align: center;
     overflow: hidden;
