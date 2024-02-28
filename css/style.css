@@ -269,7 +269,7 @@ img {
     position: fixed;
     justify-content: start;
     top: 90px;
-    left:40px;
+    left:20px;
     background-color: #fffdfd;
     width: 80%;
     height: calc(90vh - 30px);
