@@ -250,6 +250,11 @@ $(document).ready(function(){
   $('html, body').animate({
     scrollTop: $($("#footer-contact")).offset().top -56}, 600,'swing');
  });
+ $("#navbar_scroll_home").click(function(){
+  $('html, body').animate({
+    scrollTop: $($("#home-section")).offset().top -190}, 600,'swing');
+ });
+ 
  
 
 });
